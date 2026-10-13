@@ -1,0 +1,74 @@
+[
+  {
+    "repetition": 0,
+    "depth": 2,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 1.3290100000012899,
+    "count_seconds": 1.1000015000026906
+  },
+  {
+    "repetition": 0,
+    "depth": 16,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 9.074761300013051,
+    "count_seconds": 6.904404200002318
+  },
+  {
+    "repetition": 0,
+    "depth": null,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 13.310531000010087,
+    "count_seconds": 8.424148000005516
+  },
+  {
+    "repetition": 1,
+    "depth": 2,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 1.249128399998881,
+    "count_seconds": 1.0816136000066763
+  },
+  {
+    "repetition": 1,
+    "depth": 16,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 8.186390699993353,
+    "count_seconds": 5.904310800004168
+  },
+  {
+    "repetition": 1,
+    "depth": null,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 13.211930400007986,
+    "count_seconds": 8.869306399996276
+  },
+  {
+    "repetition": 2,
+    "depth": 2,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 1.252391500005615,
+    "count_seconds": 0.9914718999934848
+  },
+  {
+    "repetition": 2,
+    "depth": 16,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 8.329632799999672,
+    "count_seconds": 6.257191199998488
+  },
+  {
+    "repetition": 2,
+    "depth": null,
+    "trees": 3,
+    "status": "identical splits and probabilities on all 400 faces",
+    "literal_seconds": 11.69204229999741,
+    "count_seconds": 8.469946600002004
+  }
+]

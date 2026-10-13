@@ -1,0 +1,41 @@
+Data/split verified; toy SAMME round logged.
+Frozen baseline: {'depth': None, 'leaf': 1, 'leaves': 48, 'mean_samples_per_leaf': 5.0, 'singleton_leaf_fraction': 0.14583333333333334, 'actual_depth': 31, 'train': 1.0, 'validation': 0.7, 'test': 0.675}
+Frozen bagging B: 100
+Boosting depth 1 completed
+Boosting depth 2 completed
+Boosting depth 3 completed
+Boosting depth 4 completed
+All selections frozen: {'depth': None, 'leaf': 1, 'bag_B': 100, 'boost_depth': 4, 'boost_B': 25, 'bias_variance_depths': [2, 16, None, 64], 'tie_rule': 'first maximum in configured grid order'}
+Starting 30 refits with 4 workers.
+Completed refit 1 / 30
+Completed refit 2 / 30
+Completed refit 3 / 30
+Completed refit 4 / 30
+Starting 26 refits with 8 workers.
+Completed refit 5 / 30
+Completed refit 6 / 30
+Completed refit 7 / 30
+Completed refit 8 / 30
+Completed refit 9 / 30
+Completed refit 10 / 30
+Completed refit 11 / 30
+Completed refit 12 / 30
+Completed refit 13 / 30
+Completed refit 14 / 30
+Completed refit 15 / 30
+Completed refit 16 / 30
+Completed refit 17 / 30
+Completed refit 18 / 30
+Completed refit 19 / 30
+Completed refit 20 / 30
+Completed refit 21 / 30
+Completed refit 22 / 30
+Completed refit 23 / 30
+Completed refit 24 / 30
+Completed refit 25 / 30
+Completed refit 26 / 30
+Completed refit 27 / 30
+Completed refit 28 / 30
+Completed refit 29 / 30
+Completed refit 30 / 30
+COMPLETE: all metrics and 30 refits saved.

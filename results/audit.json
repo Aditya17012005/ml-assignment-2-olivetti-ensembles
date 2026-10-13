@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Saved split matches default_rng(26002) exactly; disjoint 6/2/2 per identity",
+    "Frozen settings reproduce first-maximum validation-only grid selections",
+    "Every accuracy/confidence recomputed; clean/masked votes independently reconstructed",
+    "All selected SAMME rounds independently checked with direct multiplicative update",
+    "All 30 stratified refits validated; bias/variance/Brier/accuracy recomputed",
+    "PDF: 8 Letter pages; page 1 includes confirmed identity, repository and current source commit"
+  ]
+}

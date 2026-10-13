@@ -1,0 +1,90 @@
+[
+  {
+    "repetition": 4,
+    "model": "tree",
+    "depth": "2",
+    "accuracy": 0.05,
+    "disagreement": null,
+    "leaves": 3,
+    "mean_samples_per_leaf": 80.0,
+    "singleton_leaf_fraction": 0.0,
+    "actual_depth": 2
+  },
+  {
+    "repetition": 4,
+    "model": "bag100",
+    "depth": "2",
+    "accuracy": 0.1875,
+    "disagreement": 0.9632929292929292,
+    "leaves": 3.16,
+    "mean_samples_per_leaf": 76.8,
+    "singleton_leaf_fraction": 0.0275,
+    "actual_depth": 2.0
+  },
+  {
+    "repetition": 4,
+    "model": "tree",
+    "depth": "16",
+    "accuracy": 0.2625,
+    "disagreement": null,
+    "leaves": 17,
+    "mean_samples_per_leaf": 14.117647058823529,
+    "singleton_leaf_fraction": 0.0,
+    "actual_depth": 16
+  },
+  {
+    "repetition": 4,
+    "model": "bag100",
+    "depth": "16",
+    "accuracy": 0.6875,
+    "disagreement": 0.8895151515151515,
+    "leaves": 23.56,
+    "mean_samples_per_leaf": 10.329493400114426,
+    "singleton_leaf_fraction": 0.1381117948554743,
+    "actual_depth": 16.0
+  },
+  {
+    "repetition": 4,
+    "model": "tree",
+    "depth": "None",
+    "accuracy": 0.5,
+    "disagreement": null,
+    "leaves": 40,
+    "mean_samples_per_leaf": 6.0,
+    "singleton_leaf_fraction": 0.0,
+    "actual_depth": 36
+  },
+  {
+    "repetition": 4,
+    "model": "bag100",
+    "depth": "None",
+    "accuracy": 0.7875,
+    "disagreement": 0.8171010101010101,
+    "leaves": 47.91,
+    "mean_samples_per_leaf": 5.021084307607351,
+    "singleton_leaf_fraction": 0.15686349295597735,
+    "actual_depth": 37.03
+  },
+  {
+    "repetition": 4,
+    "model": "tree",
+    "depth": "64",
+    "accuracy": 0.5,
+    "disagreement": null,
+    "leaves": 40,
+    "mean_samples_per_leaf": 6.0,
+    "singleton_leaf_fraction": 0.0,
+    "actual_depth": 36
+  },
+  {
+    "repetition": 4,
+    "model": "bag100",
+    "depth": "64",
+    "accuracy": 0.7875,
+    "disagreement": 0.8171010101010101,
+    "leaves": 47.91,
+    "mean_samples_per_leaf": 5.021084307607351,
+    "singleton_leaf_fraction": 0.15686349295597735,
+    "actual_depth": 37.03
+  }
+]

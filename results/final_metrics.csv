@@ -1,0 +1,13 @@
+model,subset,accuracy,confidence
+tree,train,1.0,1.0
+tree,validation,0.7,1.0
+tree,test,0.675,1.0
+tree,masked,0.175,1.0
+bagging,train,1.0,0.7479583333333333
+bagging,validation,0.8625,0.417625
+bagging,test,0.8875,0.41075
+bagging,masked,0.825,0.31425000000000003
+boosting,train,0.8833333333333333,0.15132178141733416
+boosting,validation,0.5,0.13739331441630104
+boosting,test,0.4,0.13271804069284385
+boosting,masked,0.3625,0.13191507178351447

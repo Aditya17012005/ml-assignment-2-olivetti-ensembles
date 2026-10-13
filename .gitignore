@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+data/cache/
+tmp/
+*.aux
+*.log
+!experiment.log
+*.out
+*.synctex.gz
+output/pdf/

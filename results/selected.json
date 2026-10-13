@@ -1,0 +1,14 @@
+{
+  "depth": null,
+  "leaf": 1,
+  "bag_B": 100,
+  "boost_depth": 4,
+  "boost_B": 25,
+  "bias_variance_depths": [
+    2,
+    16,
+    null,
+    64
+  ],
+  "tie_rule": "first maximum in configured grid order"
+}

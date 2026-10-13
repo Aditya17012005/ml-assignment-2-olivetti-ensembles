@@ -1,0 +1,10 @@
+test_count_compression_matches_literal_bootstrap (test_models.ModelChecks.test_count_compression_matches_literal_bootstrap) ... ok
+test_fit_and_oob_reproducibility (test_models.ModelChecks.test_fit_and_oob_reproducibility) ... ok
+test_hand_calculated_samme_round (test_models.ModelChecks.test_hand_calculated_samme_round) ... ok
+test_hard_votes_and_disagreement (test_models.ModelChecks.test_hard_votes_and_disagreement) ... ok
+test_samme_boundary_and_perfect (test_models.ModelChecks.test_samme_boundary_and_perfect) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.276s
+
+OK

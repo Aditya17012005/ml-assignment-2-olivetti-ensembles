@@ -1,0 +1,50 @@
+[
+  {
+    "page": 1,
+    "columns_start": 621,
+    "left_end": 415,
+    "right_end": 422
+  },
+  {
+    "page": 2,
+    "columns_start": 314.1952662721894,
+    "left_end": 121.69526627218937,
+    "right_end": 131.19526627218937
+  },
+  {
+    "page": 3,
+    "columns_start": 695,
+    "left_end": 152.86381653454134,
+    "right_end": 356
+  },
+  {
+    "page": 4,
+    "columns_start": 695,
+    "left_end": 243.0,
+    "right_end": 248.5
+  },
+  {
+    "page": 5,
+    "columns_start": 349.9940828402367,
+    "left_end": 126.49408284023667,
+    "right_end": 125.36392305328596
+  },
+  {
+    "page": 6,
+    "columns_start": 695,
+    "left_end": 261.7309546769527,
+    "right_end": 194.95605858854861
+  },
+  {
+    "page": 7,
+    "columns_start": 457.3905325443787,
+    "left_end": 171.8905325443787,
+    "right_end": 166.8905325443787
+  },
+  {
+    "page": 8,
+    "columns_start": 695,
+    "left_end": 319,
+    "right_end": 244.0
+  }
+]

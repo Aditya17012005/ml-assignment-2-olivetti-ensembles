@@ -1,0 +1,62 @@
+{
+  "python": "3.14.3",
+  "numpy": "2.4.3",
+  "sklearn": "1.9.1",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "config": {
+    "name": "Jyotishi Aditya Jagdeep",
+    "roll_number": "M26CSA002",
+    "repository": "https://github.com/Aditya17012005/ml-assignment-2-olivetti-ensembles",
+    "tree_depths": [
+      2,
+      4,
+      8,
+      16,
+      null
+    ],
+    "tree_leaves": [
+      1,
+      2,
+      4
+    ],
+    "bag_sizes": [
+      1,
+      5,
+      10,
+      25,
+      50,
+      100,
+      200
+    ],
+    "boost_depths": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "boost_rounds": [
+      10,
+      25,
+      50,
+      100
+    ],
+    "refits": 30,
+    "mask": {
+      "row_start": 24,
+      "row_stop_exclusive": 40,
+      "column_start": 24,
+      "column_stop_exclusive": 40
+    },
+    "features": "all 4096 raw pixels",
+    "selection": "maximum clean validation accuracy; first grid entry breaks ties",
+    "confidence": {
+      "tree": "largest leaf class probability",
+      "bagging": "largest hard-vote fraction",
+      "boosting": "largest normalized alpha-weighted vote"
+    },
+    "ai_assistance": "Code, experiments, figures and report prepared with OpenAI Codex. The supplied assignment prohibits generative AI; this work does not satisfy that course constraint."
+  },
+  "workers": 8,
+  "refit_bootstrap": "integer counts of duplicate rows; literal grid bootstrap timings"
+}
